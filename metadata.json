@@ -1,0 +1,8 @@
+{
+  "name": "Remix Type Motion",
+  "description": "Generate cinematic 3D animations from simple text with Gemini Omni Flash",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
